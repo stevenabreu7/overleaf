@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!_essay.tex
+!_JabRef.bib
+!_essay
